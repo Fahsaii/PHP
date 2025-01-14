@@ -12,19 +12,19 @@
             <td>Enter Home work : </td>
             <td><input type="text" name="hw" size="15" value=""/> </td>
         </tr>
-            <td>Enter Midterm : </td>
-            <td><input type="text" name="midterm" size="15" value=""/></td>
+        <td>Enter Midterm : </td>
+        <td><input type="text" name="midterm" size="15" value=""/></td>
         </tr>
         </tr>
             <td>Enter final : </td>
             <td><input type="text" name="final" size="15" value=""/></td>
-    </tr>
-    <tr>
+        </tr>
+        <tr>
             <td colspan="2" align="center">
             <input type="submit" value=" OK " />
             <input type="reset" value=" Clear " />
         </td>
-    </tr>
+</tr>
 </table>
 </form>
 </body>
