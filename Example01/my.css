@@ -1,0 +1,15 @@
+body {  
+    font-family: 'Kanit', sans-serif;
+    background-color: rgb(237, 228, 216);
+  }
+.normal {
+    font-size:20pt;
+    text-align: left;
+    color: rgb(67, 50, 50);
+    }
+.big {
+    font-size:30pt;
+    text-align: center;
+    color: rgb(104, 30, 161);
+    }
+
